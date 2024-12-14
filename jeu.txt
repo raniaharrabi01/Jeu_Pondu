@@ -1,0 +1,9 @@
+	Nom     : Jeu de Pendu
+	Concept : Le jeu consiste à choisir aléatoirement un mot entré par l'utilisateur. Le joueur a 6 tentatives pour deviner le mot. À chaque erreur, une partie du dessin du pendu est ajoutée.
+	Étapes  :
+			. Choisir les domaines sur lesquels vous allez travailler (par exemple Test Logiciel...).
+			. Développer l'interface qui contient le dessin du pendu.
+			. Créer un lien Google qui permet de vérifier si le mot existe ou non.
+			. Mettre en place un dialogue qui indique si le joueur a trouvé le bon mot ou s'il a fait une erreur.
+			   
+   
