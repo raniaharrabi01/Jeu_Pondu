@@ -24,6 +24,8 @@ Affichage des résultats :
 Si une lettre correcte est proposée, elle est révélée dans l’interface.
 Si une lettre incorrecte est proposée, les essais restants sont affichés.
 Objectif : S'assurer que les règles du jeu sont respectées, y compris le suivi des tentatives et la gestion du score.
+
+Les Interfaces du Jeu : 
 ![image](https://github.com/user-attachments/assets/f36f88a4-f2d9-4c42-811f-70db01db7512)
 ![image](https://github.com/user-attachments/assets/a779755b-2528-4f2b-8372-ce7084991e84)
 ![image](https://github.com/user-attachments/assets/1534d61a-d316-4462-b281-1f1a8f6fd89f)
